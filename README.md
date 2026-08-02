@@ -34,9 +34,9 @@ the July 31 youth retrospective.
 ## Verification
 
 - Compiled with TeX Live and BibTeX on August 1, 2026
-- Seven pages total, one page shorter than the submitted Module 1 journal
-- 2,335 body words, excluding the cover and references
-- All seven rendered pages visually reviewed
+- Six pages total, two pages shorter than the submitted Module 1 journal
+- 2,294 body words, excluding the cover, figure caption, and references
+- All six rendered pages visually reviewed
 - No unresolved citations, references, or overfull boxes
 
 ## Build
